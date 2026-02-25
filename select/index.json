@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "world is yours.",
+  "base_artist": "Brent Faiyaz",
+  "createdAt": "2026-02-25T16:48:14.120951Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The World Is Yours",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/01_The_World_Is_Yours_Nas.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The World Is Yours (Remix)",
+      "artist": "Nas",
+      "has_synced": false,
+      "path": "select/02_The_World_Is_Yours_(Remix)_Nas.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "This World Is Yours",
+      "artist": "RMB",
+      "has_synced": false,
+      "path": "select/03_This_World_Is_Yours_RMB.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The World Is Yours - Outtake from Angel Dust Sessions",
+      "artist": "Faith No More",
+      "has_synced": true,
+      "path": "select/04_The_World_Is_Yours_-_Outtake_from_Angel_Dust_Sessions_Faith_No_More.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The World Is Yours (outtake from Angel Dust sessions)",
+      "artist": "Faith No More",
+      "has_synced": true,
+      "path": "select/05_The_World_Is_Yours_(outtake_from_Angel_Dust_sessions)_Faith_No_More.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The World Is Yours",
+      "artist": "Faith No More",
+      "has_synced": true,
+      "path": "select/06_The_World_Is_Yours_Faith_No_More.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "World Is Yours",
+      "artist": "Rich The Kid",
+      "has_synced": true,
+      "path": "select/07_World_Is_Yours_Rich_The_Kid.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "World Is Yours (Lil Baby & Gunna)",
+      "artist": "Gunna",
+      "has_synced": true,
+      "path": "select/08_World_Is_Yours_(Lil_Baby_&_Gunna)_Gunna.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "World Is Yours",
+      "artist": "Gunna",
+      "has_synced": true,
+      "path": "select/09_World_Is_Yours_Gunna.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The World Is Yours",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/10_The_World_Is_Yours_Nas.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The World Is Yours",
+      "artist": "Arch Enemy",
+      "has_synced": true,
+      "path": "select/11_The_World_Is_Yours_Arch_Enemy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The World Is Yours",
+      "artist": "Macy Gray featuring Slick Rick",
+      "has_synced": false,
+      "path": "select/12_The_World_Is_Yours_Macy_Gray_featuring_Slick_Rick.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The World Is Yours",
+      "artist": "Macy Gray Ft Slick Rick",
+      "has_synced": false,
+      "path": "select/13_The_World_Is_Yours_Macy_Gray_Ft_Slick_Rick.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The World Is Yours",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/14_The_World_Is_Yours_Nas.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The World Is Yours (Tip Mix)",
+      "artist": "Nas",
+      "has_synced": false,
+      "path": "select/15_The_World_Is_Yours_(Tip_Mix)_Nas.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "world is yours.",
+      "artist": "Brent Faiyaz",
+      "has_synced": false,
+      "path": "select/pl_01_world_is_yours._Brent_Faiyaz.txt"
+    }
+  ]
+}
